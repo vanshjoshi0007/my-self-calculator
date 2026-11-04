@@ -1,0 +1,33 @@
+*{
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+.screen{
+    text-align: center;
+    margin: 20px;
+}
+.input{
+ background-color: yellow;
+height: 50px;
+width: 200px;
+border: 1px solid black;
+border-radius: 8px;
+padding: 10px;
+font-size: 30px;
+font-weight: bold;
+}
+.number{
+    /* background-color: white; */
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    background-color: green;
+    border-radius: 8px;
+    font-size: 25px;
+    box-sizing: border-box;
+    align-items: start;
+}
